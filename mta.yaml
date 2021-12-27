@@ -10,7 +10,7 @@ modules:
    parameters:
       disk-quota: 256M
       memory: 256M
-      host: ${org}-cf_multitenant_node_app
+      host: ${org}-cf-multitenant-node-app
 
 
 
